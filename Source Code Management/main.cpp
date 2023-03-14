@@ -1,14 +1,11 @@
-//
-//  main.cpp
+//  Alex Rudy
+//  CIS 1202
 //  Source Code Management
-//
-//  Created by Alex Rudy on 3/14/23.
-//
-
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main()
+{
+    cout << "Hello, World!" << endl;
     return 0;
 }
