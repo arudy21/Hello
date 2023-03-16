@@ -61,6 +61,7 @@
 			);
 			path = "Source Code Management";
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 /* End PBXGroup section */
 
